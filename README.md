@@ -43,8 +43,5 @@ Get in touch! I would love to hear from you. I am a native Portuguese (🇧🇷)
 <a href="https://linkedin.com/in/vctsantos">
   <img align="left" alt="Victor's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-<a href="https://behance.net/moertel">
-  <img align="left" alt="Stefanie's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
-</a>
 
 | &nbsp;&nbsp;&nbsp; Website & Gallery : [https://vsantos.me](https://vsantos.me) &nbsp;&nbsp;&nbsp;

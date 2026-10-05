@@ -1,47 +1,75 @@
-<h1 align="center">Hi, I'm Victor!</h1>
+<h1 align="center">Hi, I'm Victor Santos, PhD! 👋</h1>
+
 <p align="center">
-  <img src="https://images.procreate.art/images/303966/75741ef4256a32745.jpg" width="200" alt="Quantum Cat Image">
+  <b>Senior Data Engineer | Cloud Architect (GCP/AWS) | AI & Automation Enthusiast</b>
 </p>
 
-I’m a physicist and data scientist, currently living in Fortaleza, Brazil. I like to automate things. 
-
-I'm into science in general, functional programming, languages, and solving problems. When I'm not doing these things, I'm probably biking, climbing or drawing.
-
-Get in touch! I would love to hear from you. I am a native Portuguese (🇧🇷) speaker and speak English (🇺🇸) fluently.
-
-----
-
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-![R](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square&link=)
-![C/C++](https://img.shields.io/static/v1?logo=c&label=&message=C/C%2b%2b&color=36465D&logoColor=AAA&style=flat-square&link=)
-![Scheme](https://img.shields.io/static/v1?label=&message=Scheme&color=36465D&logoColor=AAA&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBDcmVhdGVkIHdpdGggSW5rc2NhcGUgKGh0dHA6Ly93d3cuaW5rc2NhcGUub3JnLykgLS0+Cjxzdmcgd2lkdGg9IjMwMHB0IiBoZWlnaHQ9IjMwMHB0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6Y2M9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL25zIyIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogPG1ldGFkYXRhPgogIDxyZGY6UkRGPgogICA8Y2M6V29yayByZGY6YWJvdXQ9IiI+CiAgICA8ZGM6Zm9ybWF0PmltYWdlL3N2Zyt4bWw8L2RjOmZvcm1hdD4KICAgIDxkYzp0eXBlIHJkZjpyZXNvdXJjZT0iaHR0cDovL3B1cmwub3JnL2RjL2RjbWl0eXBlL1N0aWxsSW1hZ2UiLz4KICAgPC9jYzpXb3JrPgogIDwvcmRmOlJERj4KIDwvbWV0YWRhdGE+CiA8ZyB0cmFuc2Zvcm09Im1hdHJpeCguMjM3MzggMCAwIC0uMjM3MzggNjUuNDg1IDM1NC4yNikiIGZpbGw9IiNmZmYiPgogIDxwYXRoIGQ9Im05NjcgMjg4aDM2YzAtMTA1LjMzLTE3LTE4Mi01MS0yMzBzLTc3LTcyLTEyOS03MmMtNDIgMC04Mi4zMzMgMTUuNjY3LTEyMSA0Ny0zOC42NjcgMzEuMzMzLTczLjMzMyAxMTYuMzMtMTA0IDI1NWwtODYgMzg4LTI5OC02NzZoLTE4OWw0MjggOTIyYy0yMi42NjcgMTE5LjMzLTUwIDIwNy42Ny04MiAyNjVzLTcxLjY2NyA4Ni0xMTkgODZjLTM4IDAtNzEtMTQuMzMzLTk5LTQzcy00NC03My42NjctNDgtMTM1aC0zNmMyIDk4IDIxLjY2NyAxNzYuMzMgNTkgMjM1IDM3LjMzMyA1OC42NjcgODQgODguMzMzIDE0MCA4OSAzNiAwIDcwLTE0LjY2NyAxMDItNDRzNjAtODAgODQtMTUyIDYxLTIyMC42NyAxMTEtNDQ2bDcxLTMxN2MyOC42NjctMTMxLjMzIDU4LjY2Ny0yMTkgOTAtMjYzczY5LjMzMy02Ni4zMzMgMTE0LTY3Yzc0LjY2NyAwIDExNyA1Mi42NjcgMTI3IDE1OHoiIGZpbGw9IiNmZmYiLz4KIDwvZz4KPC9zdmc+Cg==)
-
-
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
-![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=36465D&logoColor=AAA&style=flat-square)
-![emacs](https://img.shields.io/static/v1?logo=emacs&label=&message=emacs&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-
-
-<p>
-  <b>Data & Platform Engineer</b> <span style="font-size:2rem">&#8250;</span> <em>working in Data, Reliability Analytics & Automation</em>
+<p align="center">
+  <a href="https://linkedin.com/in/vctsantos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://padawanphysicist.codeberg.page/"><img src="https://img.shields.io/badge/Homepage-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
 </p>
 
-<p>
-  <b>Digital Artist & Creator</b> <span style="font-size:2rem">&#8250;</span> <em>Exploring styles, specializing in Digital Art</em>
+<p align="center">
+  <img src="https://padawanphysicist.codeberg.page/assets/static/img/quantum_cat.png" width="200" alt="Quantum Cat Image">
 </p>
-<br/>
 
-----
+---
 
-<a href="https://www.instagram.com/padawanphysicist/">
-  <img align="left" alt="Victor's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://linkedin.com/in/vctsantos">
-  <img align="left" alt="Victor's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
+### 🔬 About Me
 
-| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://vsantos.me](https://vsantos.me) &nbsp;&nbsp;&nbsp;
+I am a **Physicist turned Senior Data Engineer** with a **PhD in Theoretical & Mathematical Physics**. I bridge the gap between rigorous scientific computing, modern cloud data architecture, and AI-driven automation.
+
+- 🚀 **Currently**: Architecting large-scale cross-platform Data Marts (GCP/AWS) and pioneering Multi-Agent AI systems for automated dbt code reviews.
+- 💡 **Core Expertise**: Cloud Infrastructure (GCP/AWS), Modern Data Stack (dbt, BigQuery, Airflow), Generative AI (LLMs, Multi-Agent Systems, RAG), and High-Performance Numerical Modeling.
+- 🌐 **Open Science & Free Software Advocate**: Contributor to community projects like **SageMath** and maintainer of **`mittleffpy`** (high-performance numerical computation package).
+- 🧗‍♂️ **Beyond Coding**: Bikepacking, rock climbing, and digital art.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+**Cloud & Data Platforms**  
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Scheme](https://img.shields.io/badge/Scheme-555555?style=flat-square&logo=gnu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-7F52B4?style=flat-square&logo=gnu-emacs&logoColor=white)
+
+**AI & Automation**  
+![GenAI](https://img.shields.io/badge/Generative_AI-111111?style=flat-square&logo=openai&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-00A86B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Frameworks-FFD700?style=flat-square)
+
+---
+
+### ⭐ Featured Open Source & Projects
+
+- **[`mittleffpy`](https://github.com/mittleff/mittleffc)**: High-performance numerical computing package in C/Python for calculating the Mittag-Leffler function.
+- **[`guile-pyffi`](https://github.com/padawanphysicist/guile-pyffi)**: Guile Scheme interface for Python, bridging functional languages and scientific libraries.
+- **[SageMath Contributions](https://codeberg.org/padawanphysicist/coeficiente-de-transmissao)**: Custom modules for potential barrier transmission coefficients in physics research.
+- **[Atlas do Capital Humano](https://vsantos.me)**: Interactive decision-support platform in R Shiny consolidating municipal educational and workforce data.
+
+---
+
+### 📊 Impact & Highlights
+
+- **Cloud Data Infrastructure**: Architected cross-platform Data Marts (GCP/AWS) serving **3M+ students** across **7,000+ schools**, accelerating data access by **40%**.
+- **AI Code Governance**: Engineered a Multi-Agent AI framework for automated dbt code audits, boosting standards compliance by **60%**.
+- **Public Policy Analytics**: Unified municipal data silos at IPLANFOR into a *Single Source of Truth*, accelerating policy evaluation cycles by **3 weeks**.
+
+---
+
+<p align="center">
+  🌐 <b>Website & Portfolio:</b> <a href="https://padawanphysicist.codeberg.page">https://padawanphysicist.codeberg.org</a>
+</p>

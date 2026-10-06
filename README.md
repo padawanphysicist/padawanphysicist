@@ -71,5 +71,5 @@ I am a **Physicist turned Senior Data Engineer** with a **PhD in Theoretical & M
 ---
 
 <p align="center">
-  🌐 <b>Website & Portfolio:</b> <a href="https://padawanphysicist.codeberg.page">https://padawanphysicist.codeberg.org</a>
+  🌐 <b>Website & Portfolio:</b> <a href="https://padawanphysicist.codeberg.page">https://padawanphysicist.codeberg.page</a>
 </p>
